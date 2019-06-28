@@ -1,2 +1,2 @@
 # 2019-01-Python-Term-Project
-2019-01 Web-Python Term-Project 
+An Analysis of the Emotional Tendency of YouTube Comments Using Python
